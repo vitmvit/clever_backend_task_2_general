@@ -1,11 +1,5 @@
 # clever_backend_task2_general
 
-## Задача
+## Реализация
 
-1. Установить Gradle
-2. Проект должен быть совместим с java 17
-3. Создать файл.jar, например, «utils-1.3.5.jar»
-4. Манифест файл должен содержать имя и версию вашего jar файла
-5. В вашем jar файле должен быть class StringUtils с методом boolean isPositiveNumber(String str)
-6. Написать один unit test для проверки этого метода (использовать JUnit 5).
-7. Заполнить и отправить форму
+Данный проект совместим с java 17. Создан utils-1.0.jar, манифест которого содержит имя и версию файла. В jar файле находится class StringUtils с методом boolean isPositiveNumber(String str). Написан один unit test для проверки этого метода.
